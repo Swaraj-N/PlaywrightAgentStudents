@@ -1,0 +1,3 @@
+[     236ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://49.249.29.4:8888/:0
+[     262ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://49.249.29.4:8888/favicon.ico:0
+[    4080ms] [ERROR] Refused to set unsafe header "Connection" @ http://49.249.29.4:8888/include/scriptaculous/prototype.js:720

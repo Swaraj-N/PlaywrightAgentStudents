@@ -1,0 +1,860 @@
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - row "vtiger-crm-logo.gif Search... Find Admin123@ Administrator1" [ref=e4]:
+        - cell "vtiger-crm-logo.gif" [ref=e5]:
+          - img "vtiger-crm-logo.gif" [ref=e6]
+        - cell "Search... Find" [ref=e7]:
+          - table [ref=e9]:
+            - rowgroup [ref=e10]:
+              - row "Search... Find" [ref=e11]:
+                - cell "Search..." [ref=e12]:
+                  - textbox [ref=e13]: Search...
+                - cell [ref=e14]:
+                  - link:
+                    - /url: javascript:void(0);
+                    - img [ref=e15] [cursor=pointer]
+                - cell "Find" [ref=e16]:
+                  - button "Find" [ref=e17] [cursor=pointer]
+        - cell "Admin123@ Administrator1" [ref=e18]:
+          - table [ref=e19]:
+            - rowgroup [ref=e20]:
+              - row "Admin123@ Administrator1" [ref=e21]:
+                - cell "Admin123@ Administrator1" [ref=e22]
+                - cell [ref=e23]:
+                  - img [ref=e24]
+                - cell [ref=e25]:
+                  - img [ref=e27]
+                - cell [ref=e28]:
+                  - img [ref=e29]
+  - table [ref=e30]:
+    - rowgroup [ref=e31]:
+      - row "Calendar Organizations Contacts Opportunities Products Documents Email Trouble Tickets Dashboard Leads More Quick Create..." [ref=e32]:
+        - cell [ref=e33]:
+          - link [ref=e34] [cursor=pointer]:
+            - /url: index.php?module=Home&action=index&parenttab=My Home Page
+            - img [ref=e35]
+        - cell "Calendar Organizations Contacts Opportunities Products Documents Email Trouble Tickets Dashboard Leads More Quick Create..." [ref=e36]:
+          - table [ref=e37]:
+            - rowgroup [ref=e38]:
+              - row "Calendar Organizations Contacts Opportunities Products Documents Email Trouble Tickets Dashboard Leads More Quick Create..." [ref=e39]:
+                - cell [ref=e40]:
+                  - img [ref=e41]
+                - cell "Calendar" [ref=e42]:
+                  - link "Calendar" [ref=e43] [cursor=pointer]:
+                    - /url: index.php?module=Calendar&action=index
+                - cell [ref=e44]:
+                  - img [ref=e45]
+                - cell "Organizations" [ref=e46]:
+                  - link "Organizations" [ref=e47] [cursor=pointer]:
+                    - /url: index.php?module=Accounts&action=index
+                - cell [ref=e48]:
+                  - img [ref=e49]
+                - cell "Contacts" [ref=e50]:
+                  - link "Contacts" [ref=e51] [cursor=pointer]:
+                    - /url: index.php?module=Contacts&action=index
+                - cell [ref=e52]:
+                  - img [ref=e53]
+                - cell "Opportunities" [ref=e54]:
+                  - link "Opportunities" [ref=e55] [cursor=pointer]:
+                    - /url: index.php?module=Potentials&action=index
+                - cell [ref=e56]:
+                  - img [ref=e57]
+                - cell "Products" [ref=e58]:
+                  - link "Products" [ref=e59] [cursor=pointer]:
+                    - /url: index.php?module=Products&action=index
+                - cell [ref=e60]:
+                  - img [ref=e61]
+                - cell "Documents" [ref=e62]:
+                  - link "Documents" [ref=e63] [cursor=pointer]:
+                    - /url: index.php?module=Documents&action=index
+                - cell [ref=e64]:
+                  - img [ref=e65]
+                - cell "Email" [ref=e66]:
+                  - link "Email" [ref=e67] [cursor=pointer]:
+                    - /url: index.php?module=Emails&action=index
+                - cell [ref=e68]:
+                  - img [ref=e69]
+                - cell "Trouble Tickets" [ref=e70]:
+                  - link "Trouble Tickets" [ref=e71] [cursor=pointer]:
+                    - /url: index.php?module=HelpDesk&action=index
+                - cell [ref=e72]:
+                  - img [ref=e73]
+                - cell "Dashboard" [ref=e74]:
+                  - link "Dashboard" [ref=e75] [cursor=pointer]:
+                    - /url: index.php?module=Dashboard&action=index
+                - cell [ref=e76]:
+                  - img [ref=e77]
+                - cell "Leads" [ref=e78]:
+                  - link "Leads" [ref=e79] [cursor=pointer]:
+                    - /url: index.php?module=Leads&action=index
+                - cell [ref=e80]:
+                  - img [ref=e81]
+                - cell "More" [ref=e82]:
+                  - link "More" [ref=e83] [cursor=pointer]:
+                    - /url: javascript:;
+                    - text: More
+                    - img [ref=e84]
+                - cell [ref=e85]:
+                  - img [ref=e86]
+                - cell "Quick Create..." [ref=e87]:
+                  - combobox [ref=e88]:
+                    - option "Quick Create..." [selected]
+                    - option "New Organization"
+                    - option "New Asset"
+                    - option "New To Do"
+                    - option "New Campaign"
+                    - option "New Comment"
+                    - option "New Contact"
+                    - option "New Document"
+                    - option "New Event"
+                    - option "New Ticket"
+                    - option "New Lead"
+                    - option "New Opportunity"
+                    - option "New PriceBook"
+                    - option "New Product"
+                    - option "New Project"
+                    - option "New Project Milestone"
+                    - option "New Project Task"
+                    - option "New Service Contract"
+                    - option "New Service"
+                    - option "New Vendor"
+        - cell [ref=e89]
+  - table [ref=e90]:
+    - rowgroup [ref=e91]:
+      - row [ref=e92]:
+        - cell [ref=e93]
+      - row "Contacts Create Contact... Search in Contacts... Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed Import Contacts Export Contacts Find Duplicates Contacts Settings" [ref=e94]:
+        - cell "Contacts" [ref=e95]:
+          - link "Contacts" [ref=e96] [cursor=pointer]:
+            - /url: index.php?action=ListView&module=Contacts&parenttab=Marketing
+        - cell "Create Contact... Search in Contacts... Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed Import Contacts Export Contacts Find Duplicates Contacts Settings" [ref=e97]:
+          - table [ref=e98]:
+            - rowgroup [ref=e99]:
+              - row "Create Contact... Search in Contacts... Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed Import Contacts Export Contacts Find Duplicates Contacts Settings" [ref=e100]:
+                - cell [ref=e101]
+                - cell "Create Contact... Search in Contacts..." [ref=e102]:
+                  - table [ref=e103]:
+                    - rowgroup [ref=e104]:
+                      - row "Create Contact... Search in Contacts..." [ref=e105]:
+                        - cell "Create Contact... Search in Contacts..." [ref=e106]:
+                          - table [ref=e107]:
+                            - rowgroup [ref=e108]:
+                              - row "Create Contact... Search in Contacts..." [ref=e109]:
+                                - cell "Create Contact..." [ref=e110]:
+                                  - link "Create Contact..." [ref=e111] [cursor=pointer]:
+                                    - /url: index.php?module=Contacts&action=EditView&return_action=DetailView&parenttab=Marketing
+                                    - img "Create Contact..." [ref=e112]
+                                - cell "Search in Contacts..." [ref=e113]:
+                                  - link "Search in Contacts..." [ref=e114] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img "Search in Contacts..." [ref=e115]
+                - cell [ref=e116]
+                - cell "Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed" [ref=e117]:
+                  - table [ref=e118]:
+                    - rowgroup [ref=e119]:
+                      - row "Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed" [ref=e120]:
+                        - cell "Open Calendar..." [ref=e121]:
+                          - link "Open Calendar..." [ref=e122] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Open Calendar..." [ref=e123]
+                        - cell "Show World Clock..." [ref=e124]:
+                          - link "Show World Clock..." [ref=e125] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Show World Clock..." [ref=e126]
+                        - cell "Open Calculator..." [ref=e127]:
+                          - link "Open Calculator..." [ref=e128] [cursor=pointer]:
+                            - /url: "#"
+                            - img "Open Calculator..." [ref=e129]
+                        - cell "Chat..." [ref=e130]:
+                          - link "Chat..." [ref=e131] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Chat..." [ref=e132]
+                        - cell "Last Viewed" [ref=e133]:
+                          - img "Last Viewed" [ref=e134]
+                - cell [ref=e135]
+                - cell "Import Contacts Export Contacts Find Duplicates" [ref=e136]:
+                  - table [ref=e137]:
+                    - rowgroup [ref=e138]:
+                      - row "Import Contacts Export Contacts Find Duplicates" [ref=e139]:
+                        - cell "Import Contacts" [ref=e140]:
+                          - link "Import Contacts" [ref=e141] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=Import&step=1&return_module=Contacts&return_action=index&parenttab=Marketing
+                            - img "Import Contacts" [ref=e142]
+                        - cell "Export Contacts" [ref=e143]:
+                          - link "Export Contacts" [ref=e144] [cursor=pointer]:
+                            - /url: javascript:void(0)
+                            - img "Export Contacts" [ref=e145]
+                        - cell "Find Duplicates" [ref=e146]:
+                          - link "Find Duplicates" [ref=e147] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Find Duplicates" [ref=e148]
+                - cell [ref=e149]
+                - cell "Contacts Settings" [ref=e150]:
+                  - table [ref=e151]:
+                    - rowgroup [ref=e152]:
+                      - row "Contacts Settings" [ref=e153]:
+                        - cell "Contacts Settings" [ref=e154]:
+                          - link "Contacts Settings" [ref=e155] [cursor=pointer]:
+                            - /url: index.php?module=Settings&action=ModuleManager&module_settings=true&formodule=Contacts&parenttab=Settings
+                            - img "Contacts Settings" [ref=e156]
+      - row [ref=e157]:
+        - cell [ref=e158]
+  - table [ref=e159]:
+    - rowgroup [ref=e160]:
+      - row [ref=e161]:
+        - cell [ref=e162]:
+          - img [ref=e163]
+        - cell [ref=e164]:
+          - table [ref=e167]:
+            - rowgroup [ref=e168]:
+              - row "Search Go to Advanced Search Search for In Contact Id Search Now [x]" [ref=e169]:
+                - cell "Search Go to Advanced Search" [ref=e170]:
+                  - text: Search
+                  - link "Go to Advanced Search" [ref=e172] [cursor=pointer]:
+                    - /url: "#"
+                - cell "Search for" [ref=e173]
+                - cell [ref=e174]:
+                  - textbox [ref=e175]
+                - cell "In" [ref=e176]
+                - cell "Contact Id" [ref=e177]:
+                  - combobox [ref=e179]:
+                    - option "Contact Id" [selected]
+                    - option "First Name"
+                    - option "Last Name"
+                    - option "Title"
+                    - option "Organization Name"
+                    - option "Email"
+                    - option "Office Phone"
+                    - option "Assigned To"
+                - cell "Search Now" [ref=e180]:
+                  - button "Search Now" [ref=e181]
+                - cell "[x]" [ref=e182]
+              - row "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" [ref=e183]:
+                - cell "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" [ref=e184]:
+                  - table [ref=e185]:
+                    - rowgroup [ref=e186]:
+                      - row "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" [ref=e187]:
+                        - cell "A" [ref=e188] [cursor=pointer]
+                        - cell "B" [ref=e189] [cursor=pointer]
+                        - cell "C" [ref=e190] [cursor=pointer]
+                        - cell "D" [ref=e191] [cursor=pointer]
+                        - cell "E" [ref=e192] [cursor=pointer]
+                        - cell "F" [ref=e193] [cursor=pointer]
+                        - cell "G" [ref=e194] [cursor=pointer]
+                        - cell "H" [ref=e195] [cursor=pointer]
+                        - cell "I" [ref=e196] [cursor=pointer]
+                        - cell "J" [ref=e197] [cursor=pointer]
+                        - cell "K" [ref=e198] [cursor=pointer]
+                        - cell "L" [ref=e199] [cursor=pointer]
+                        - cell "M" [ref=e200] [cursor=pointer]
+                        - cell "N" [ref=e201] [cursor=pointer]
+                        - cell "O" [ref=e202] [cursor=pointer]
+                        - cell "P" [ref=e203] [cursor=pointer]
+                        - cell "Q" [ref=e204] [cursor=pointer]
+                        - cell "R" [ref=e205] [cursor=pointer]
+                        - cell "S" [ref=e206] [cursor=pointer]
+                        - cell "T" [ref=e207] [cursor=pointer]
+                        - cell "U" [ref=e208] [cursor=pointer]
+                        - cell "V" [ref=e209] [cursor=pointer]
+                        - cell "W" [ref=e210] [cursor=pointer]
+                        - cell "X" [ref=e211] [cursor=pointer]
+                        - cell "Y" [ref=e212] [cursor=pointer]
+                        - cell "Z" [ref=e213] [cursor=pointer]
+          - table [ref=e216]:
+            - rowgroup [ref=e217]:
+              - row [ref=e218]:
+                - cell [ref=e219]:
+                  - table [ref=e220]:
+                    - rowgroup [ref=e221]:
+                      - 'row "Showing Records 1 - 20 of 30076 Filters : All Create Filter | Edit | Delete 1 of 1504Next Last" [ref=e222]':
+                        - cell "Showing Records 1 - 20 of 30076" [ref=e223]
+                        - 'cell "Filters : All Create Filter | Edit | Delete" [ref=e224]':
+                          - table [ref=e225]:
+                            - rowgroup [ref=e226]:
+                              - 'row "Filters : All Create Filter | Edit | Delete" [ref=e227]':
+                                - 'cell "Filters : All Create Filter | Edit | Delete" [ref=e228]':
+                                  - table [ref=e229]:
+                                    - rowgroup [ref=e230]:
+                                      - 'row "Filters : All Create Filter | Edit | Delete" [ref=e231]':
+                                        - 'cell "Filters : All" [ref=e232]':
+                                          - generic [ref=e233]: "Filters :"
+                                          - combobox [ref=e234]:
+                                            - option "All" [selected]
+                                            - option "Deepak"
+                                            - option "kiran"
+                                            - option "Todays Birthday"
+                                            - option "xyz"
+                                        - cell "Create Filter | Edit | Delete" [ref=e235]:
+                                          - link "Create Filter" [ref=e236] [cursor=pointer]:
+                                            - /url: index.php?module=Contacts&action=CustomView&parenttab=Marketing
+                                          - text: "| Edit | Delete"
+                        - cell "1 of 1504Next Last" [ref=e237]:
+                          - table [ref=e238]:
+                            - rowgroup [ref=e239]:
+                              - row "1 of 1504Next Last" [ref=e240]:
+                                - cell "1 of 1504Next Last" [ref=e241]:
+                                  - img [ref=e242]
+                                  - img [ref=e243]
+                                  - textbox [ref=e244]: "1"
+                                  - text: of 1504
+                                  - link "Next" [ref=e245] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e246]
+                                  - link "Last" [ref=e247] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e248]
+                  - table [ref=e249]:
+                    - rowgroup [ref=e250]:
+                      - row "Delete Mass Edit Send Mail Send SMS" [ref=e251]:
+                        - cell "Delete Mass Edit Send Mail Send SMS" [ref=e252]:
+                          - button "Delete" [ref=e253]
+                          - button "Mass Edit" [ref=e254]
+                          - button "Send Mail" [ref=e255]
+                          - button "Send SMS" [ref=e256]
+                  - table [ref=e258]:
+                    - rowgroup [ref=e259]:
+                      - row "Contact Id First Name Last Name Title Organization Name Email Office Phone Assigned To Action" [ref=e260]:
+                        - cell [ref=e261]:
+                          - checkbox [ref=e262]
+                        - cell "Contact Id" [ref=e263]:
+                          - link "Contact Id" [ref=e264] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "First Name" [ref=e265]:
+                          - link "First Name" [ref=e266] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Last Name" [ref=e267]:
+                          - link "Last Name" [ref=e268] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Title" [ref=e269]:
+                          - link "Title" [ref=e270] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Organization Name" [ref=e271]
+                        - cell "Email" [ref=e272]:
+                          - link "Email" [ref=e273] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Office Phone" [ref=e274]:
+                          - link "Office Phone" [ref=e275] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Assigned To" [ref=e276]:
+                          - link "Assigned To" [ref=e277] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Action" [ref=e278]
+                      - row
+                      - row "CON1182 pppppp Prasath2429 -- Admin123@ Administrator1 edit | del" [ref=e279]:
+                        - cell [ref=e280]:
+                          - checkbox [ref=e281]
+                        - cell "CON1182" [ref=e282]
+                        - cell "pppppp" [ref=e283]:
+                          - link "pppppp" [ref=e284] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4015
+                        - cell "Prasath2429" [ref=e285]:
+                          - link "Prasath2429" [ref=e286] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4015
+                        - cell [ref=e287]
+                        - cell "--" [ref=e288]
+                        - cell [ref=e289]:
+                          - link:
+                            - /url: javascript:InternalMailer(4015,80,'email','Contacts','record_id');
+                        - cell [ref=e290]
+                        - cell "Admin123@ Administrator1" [ref=e291]
+                        - cell "edit | del" [ref=e292]:
+                          - link "edit" [ref=e293] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4015&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e294] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4015%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1183 Contacts thanveer2053 -- Admin123@ Administrator1 edit | del" [ref=e295]:
+                        - cell [ref=e296]:
+                          - checkbox [ref=e297]
+                        - cell "CON1183" [ref=e298]
+                        - cell "Contacts" [ref=e299]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4017
+                        - cell "thanveer2053" [ref=e300]:
+                          - link "thanveer2053" [ref=e301] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4017
+                        - cell [ref=e302]
+                        - cell "--" [ref=e303]
+                        - cell [ref=e304]:
+                          - link:
+                            - /url: javascript:InternalMailer(4017,80,'email','Contacts','record_id');
+                        - cell [ref=e305]
+                        - cell "Admin123@ Administrator1" [ref=e306]
+                        - cell "edit | del" [ref=e307]:
+                          - link "edit" [ref=e308] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4017&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e309] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4017%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1185 Contacts Prasath3456 -- Admin123@ Administrator1 edit | del" [ref=e310]:
+                        - cell [ref=e311]:
+                          - checkbox [ref=e312]
+                        - cell "CON1185" [ref=e313]
+                        - cell "Contacts" [ref=e314]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4019
+                        - cell "Prasath3456" [ref=e315]:
+                          - link "Prasath3456" [ref=e316] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4019
+                        - cell [ref=e317]
+                        - cell "--" [ref=e318]
+                        - cell [ref=e319]:
+                          - link:
+                            - /url: javascript:InternalMailer(4019,80,'email','Contacts','record_id');
+                        - cell [ref=e320]
+                        - cell "Admin123@ Administrator1" [ref=e321]
+                        - cell "edit | del" [ref=e322]:
+                          - link "edit" [ref=e323] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4019&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e324] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4019%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1186 Contacts Deepak_ -- Admin123@ Administrator1 edit | del" [ref=e325]:
+                        - cell [ref=e326]:
+                          - checkbox [ref=e327]
+                        - cell "CON1186" [ref=e328]
+                        - cell "Contacts" [ref=e329]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4022
+                        - cell "Deepak_" [ref=e330]:
+                          - link "Deepak_" [ref=e331] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4022
+                        - cell [ref=e332]
+                        - cell "--" [ref=e333]
+                        - cell [ref=e334]:
+                          - link:
+                            - /url: javascript:InternalMailer(4022,80,'email','Contacts','record_id');
+                        - cell [ref=e335]
+                        - cell "Admin123@ Administrator1" [ref=e336]
+                        - cell "edit | del" [ref=e337]:
+                          - link "edit" [ref=e338] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4022&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e339] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4022%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1187 Contacts Deepak_ -- Admin123@ Administrator1 edit | del" [ref=e340]:
+                        - cell [ref=e341]:
+                          - checkbox [ref=e342]
+                        - cell "CON1187" [ref=e343]
+                        - cell "Contacts" [ref=e344]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4023
+                        - cell "Deepak_" [ref=e345]:
+                          - link "Deepak_" [ref=e346] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4023
+                        - cell [ref=e347]
+                        - cell "--" [ref=e348]
+                        - cell [ref=e349]:
+                          - link:
+                            - /url: javascript:InternalMailer(4023,80,'email','Contacts','record_id');
+                        - cell [ref=e350]
+                        - cell "Admin123@ Administrator1" [ref=e351]
+                        - cell "edit | del" [ref=e352]:
+                          - link "edit" [ref=e353] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4023&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e354] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4023%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1188 Contacts Deepak1674697913 -- Admin123@ Administrator1 edit | del" [ref=e355]:
+                        - cell [ref=e356]:
+                          - checkbox [ref=e357]
+                        - cell "CON1188" [ref=e358]
+                        - cell "Contacts" [ref=e359]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4024
+                        - cell "Deepak1674697913" [ref=e360]:
+                          - link "Deepak1674697913" [ref=e361] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4024
+                        - cell [ref=e362]
+                        - cell "--" [ref=e363]
+                        - cell [ref=e364]:
+                          - link:
+                            - /url: javascript:InternalMailer(4024,80,'email','Contacts','record_id');
+                        - cell [ref=e365]
+                        - cell "Admin123@ Administrator1" [ref=e366]
+                        - cell "edit | del" [ref=e367]:
+                          - link "edit" [ref=e368] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4024&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e369] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4024%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1189 Contacts Deepak1828062351 -- Admin123@ Administrator1 edit | del" [ref=e370]:
+                        - cell [ref=e371]:
+                          - checkbox [ref=e372]
+                        - cell "CON1189" [ref=e373]
+                        - cell "Contacts" [ref=e374]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4025
+                        - cell "Deepak1828062351" [ref=e375]:
+                          - link "Deepak1828062351" [ref=e376] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4025
+                        - cell [ref=e377]
+                        - cell "--" [ref=e378]
+                        - cell [ref=e379]:
+                          - link:
+                            - /url: javascript:InternalMailer(4025,80,'email','Contacts','record_id');
+                        - cell [ref=e380]
+                        - cell "Admin123@ Administrator1" [ref=e381]
+                        - cell "edit | del" [ref=e382]:
+                          - link "edit" [ref=e383] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4025&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e384] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4025%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1190 Contacts Deepak1114809863 -- Admin123@ Administrator1 edit | del" [ref=e385]:
+                        - cell [ref=e386]:
+                          - checkbox [ref=e387]
+                        - cell "CON1190" [ref=e388]
+                        - cell "Contacts" [ref=e389]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4026
+                        - cell "Deepak1114809863" [ref=e390]:
+                          - link "Deepak1114809863" [ref=e391] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4026
+                        - cell [ref=e392]
+                        - cell "--" [ref=e393]
+                        - cell [ref=e394]:
+                          - link:
+                            - /url: javascript:InternalMailer(4026,80,'email','Contacts','record_id');
+                        - cell [ref=e395]
+                        - cell "Admin123@ Administrator1" [ref=e396]
+                        - cell "edit | del" [ref=e397]:
+                          - link "edit" [ref=e398] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4026&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e399] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4026%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1191 Contacts Deepak628306841 -- Admin123@ Administrator1 edit | del" [ref=e400]:
+                        - cell [ref=e401]:
+                          - checkbox [ref=e402]
+                        - cell "CON1191" [ref=e403]
+                        - cell "Contacts" [ref=e404]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4027
+                        - cell "Deepak628306841" [ref=e405]:
+                          - link "Deepak628306841" [ref=e406] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4027
+                        - cell [ref=e407]
+                        - cell "--" [ref=e408]
+                        - cell [ref=e409]:
+                          - link:
+                            - /url: javascript:InternalMailer(4027,80,'email','Contacts','record_id');
+                        - cell [ref=e410]
+                        - cell "Admin123@ Administrator1" [ref=e411]
+                        - cell "edit | del" [ref=e412]:
+                          - link "edit" [ref=e413] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4027&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e414] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4027%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1192 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e415]:
+                        - cell [ref=e416]:
+                          - checkbox [ref=e417]
+                        - cell "CON1192" [ref=e418]
+                        - cell "Contacts" [ref=e419]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4040
+                        - cell "Maharaj" [ref=e420]:
+                          - link "Maharaj" [ref=e421] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4040
+                        - cell [ref=e422]
+                        - cell "--" [ref=e423]
+                        - cell [ref=e424]:
+                          - link:
+                            - /url: javascript:InternalMailer(4040,80,'email','Contacts','record_id');
+                        - cell [ref=e425]
+                        - cell "Admin123@ Administrator1" [ref=e426]
+                        - cell "edit | del" [ref=e427]:
+                          - link "edit" [ref=e428] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4040&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e429] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4040%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1193 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e430]:
+                        - cell [ref=e431]:
+                          - checkbox [ref=e432]
+                        - cell "CON1193" [ref=e433]
+                        - cell "Contacts" [ref=e434]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4041
+                        - cell "Maharaj" [ref=e435]:
+                          - link "Maharaj" [ref=e436] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4041
+                        - cell [ref=e437]
+                        - cell "--" [ref=e438]
+                        - cell [ref=e439]:
+                          - link:
+                            - /url: javascript:InternalMailer(4041,80,'email','Contacts','record_id');
+                        - cell [ref=e440]
+                        - cell "Admin123@ Administrator1" [ref=e441]
+                        - cell "edit | del" [ref=e442]:
+                          - link "edit" [ref=e443] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4041&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e444] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4041%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1194 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e445]:
+                        - cell [ref=e446]:
+                          - checkbox [ref=e447]
+                        - cell "CON1194" [ref=e448]
+                        - cell "Contacts" [ref=e449]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4043
+                        - cell "Maharaj" [ref=e450]:
+                          - link "Maharaj" [ref=e451] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4043
+                        - cell [ref=e452]
+                        - cell "--" [ref=e453]
+                        - cell [ref=e454]:
+                          - link:
+                            - /url: javascript:InternalMailer(4043,80,'email','Contacts','record_id');
+                        - cell [ref=e455]
+                        - cell "Admin123@ Administrator1" [ref=e456]
+                        - cell "edit | del" [ref=e457]:
+                          - link "edit" [ref=e458] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4043&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e459] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4043%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1195 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e460]:
+                        - cell [ref=e461]:
+                          - checkbox [ref=e462]
+                        - cell "CON1195" [ref=e463]
+                        - cell "Contacts" [ref=e464]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4046
+                        - cell "Maharaj" [ref=e465]:
+                          - link "Maharaj" [ref=e466] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4046
+                        - cell [ref=e467]
+                        - cell "--" [ref=e468]
+                        - cell [ref=e469]:
+                          - link:
+                            - /url: javascript:InternalMailer(4046,80,'email','Contacts','record_id');
+                        - cell [ref=e470]
+                        - cell "Admin123@ Administrator1" [ref=e471]
+                        - cell "edit | del" [ref=e472]:
+                          - link "edit" [ref=e473] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4046&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e474] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4046%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1196 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e475]:
+                        - cell [ref=e476]:
+                          - checkbox [ref=e477]
+                        - cell "CON1196" [ref=e478]
+                        - cell "Contacts" [ref=e479]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4048
+                        - cell "Maharaj" [ref=e480]:
+                          - link "Maharaj" [ref=e481] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4048
+                        - cell [ref=e482]
+                        - cell "--" [ref=e483]
+                        - cell [ref=e484]:
+                          - link:
+                            - /url: javascript:InternalMailer(4048,80,'email','Contacts','record_id');
+                        - cell [ref=e485]
+                        - cell "Admin123@ Administrator1" [ref=e486]
+                        - cell "edit | del" [ref=e487]:
+                          - link "edit" [ref=e488] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4048&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e489] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4048%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1197 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e490]:
+                        - cell [ref=e491]:
+                          - checkbox [ref=e492]
+                        - cell "CON1197" [ref=e493]
+                        - cell "Contacts" [ref=e494]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4049
+                        - cell "Maharaj" [ref=e495]:
+                          - link "Maharaj" [ref=e496] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4049
+                        - cell [ref=e497]
+                        - cell "--" [ref=e498]
+                        - cell [ref=e499]:
+                          - link:
+                            - /url: javascript:InternalMailer(4049,80,'email','Contacts','record_id');
+                        - cell [ref=e500]
+                        - cell "Admin123@ Administrator1" [ref=e501]
+                        - cell "edit | del" [ref=e502]:
+                          - link "edit" [ref=e503] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4049&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e504] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4049%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1199 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e505]:
+                        - cell [ref=e506]:
+                          - checkbox [ref=e507]
+                        - cell "CON1199" [ref=e508]
+                        - cell "Contacts" [ref=e509]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4051
+                        - cell "Maharaj" [ref=e510]:
+                          - link "Maharaj" [ref=e511] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4051
+                        - cell [ref=e512]
+                        - cell "--" [ref=e513]
+                        - cell [ref=e514]:
+                          - link:
+                            - /url: javascript:InternalMailer(4051,80,'email','Contacts','record_id');
+                        - cell [ref=e515]
+                        - cell "Admin123@ Administrator1" [ref=e516]
+                        - cell "edit | del" [ref=e517]:
+                          - link "edit" [ref=e518] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4051&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e519] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4051%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1200 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e520]:
+                        - cell [ref=e521]:
+                          - checkbox [ref=e522]
+                        - cell "CON1200" [ref=e523]
+                        - cell "Contacts" [ref=e524]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4052
+                        - cell "Maharaj" [ref=e525]:
+                          - link "Maharaj" [ref=e526] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4052
+                        - cell [ref=e527]
+                        - cell "--" [ref=e528]
+                        - cell [ref=e529]:
+                          - link:
+                            - /url: javascript:InternalMailer(4052,80,'email','Contacts','record_id');
+                        - cell [ref=e530]
+                        - cell "Admin123@ Administrator1" [ref=e531]
+                        - cell "edit | del" [ref=e532]:
+                          - link "edit" [ref=e533] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4052&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e534] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4052%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1201 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e535]:
+                        - cell [ref=e536]:
+                          - checkbox [ref=e537]
+                        - cell "CON1201" [ref=e538]
+                        - cell "Contacts" [ref=e539]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4053
+                        - cell "Maharaj" [ref=e540]:
+                          - link "Maharaj" [ref=e541] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4053
+                        - cell [ref=e542]
+                        - cell "--" [ref=e543]
+                        - cell [ref=e544]:
+                          - link:
+                            - /url: javascript:InternalMailer(4053,80,'email','Contacts','record_id');
+                        - cell [ref=e545]
+                        - cell "Admin123@ Administrator1" [ref=e546]
+                        - cell "edit | del" [ref=e547]:
+                          - link "edit" [ref=e548] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4053&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e549] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4053%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1202 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e550]:
+                        - cell [ref=e551]:
+                          - checkbox [ref=e552]
+                        - cell "CON1202" [ref=e553]
+                        - cell "Contacts" [ref=e554]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4054
+                        - cell "Maharaj" [ref=e555]:
+                          - link "Maharaj" [ref=e556] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4054
+                        - cell [ref=e557]
+                        - cell "--" [ref=e558]
+                        - cell [ref=e559]:
+                          - link:
+                            - /url: javascript:InternalMailer(4054,80,'email','Contacts','record_id');
+                        - cell [ref=e560]
+                        - cell "Admin123@ Administrator1" [ref=e561]
+                        - cell "edit | del" [ref=e562]:
+                          - link "edit" [ref=e563] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4054&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e564] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4054%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                      - row "CON1203 Contacts Maharaj -- Admin123@ Administrator1 edit | del" [ref=e565]:
+                        - cell [ref=e566]:
+                          - checkbox [ref=e567]
+                        - cell "CON1203" [ref=e568]
+                        - cell "Contacts" [ref=e569]:
+                          - link "Contacts":
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4059
+                        - cell "Maharaj" [ref=e570]:
+                          - link "Maharaj" [ref=e571] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&parenttab=Marketing&action=DetailView&record=4059
+                        - cell [ref=e572]
+                        - cell "--" [ref=e573]
+                        - cell [ref=e574]:
+                          - link:
+                            - /url: javascript:InternalMailer(4059,80,'email','Contacts','record_id');
+                        - cell [ref=e575]
+                        - cell "Admin123@ Administrator1" [ref=e576]
+                        - cell "edit | del" [ref=e577]:
+                          - link "edit" [ref=e578] [cursor=pointer]:
+                            - /url: index.php?module=Contacts&action=EditView&record=4059&return_module=Contacts&return_action=index&parenttab=Marketing&return_viewname=7
+                          - text: "|"
+                          - link "del" [ref=e579] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DContacts%26action%3DDelete%26record%3D4059%26return_module%3DContacts%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D7")
+                  - table [ref=e580]:
+                    - rowgroup [ref=e581]:
+                      - 'row "Delete Mass Edit Send Mail Send SMS Select template to Mail Merge: CodingStd.doc Merge" [ref=e582]':
+                        - cell "Delete Mass Edit Send Mail Send SMS" [ref=e583]:
+                          - button "Delete" [ref=e584]
+                          - button "Mass Edit" [ref=e585]
+                          - button "Send Mail" [ref=e586]
+                          - button "Send SMS" [ref=e587]
+                        - 'cell "Select template to Mail Merge: CodingStd.doc Merge" [ref=e588]':
+                          - table [ref=e589]:
+                            - rowgroup [ref=e590]:
+                              - 'row "Select template to Mail Merge: CodingStd.doc Merge" [ref=e591]':
+                                - cell "Select template to Mail Merge:" [ref=e592]
+                                - cell "CodingStd.doc" [ref=e593]:
+                                  - combobox [ref=e594]:
+                                    - option "CodingStd.doc" [selected]
+                                - cell "Merge" [ref=e595]:
+                                  - button "Merge" [ref=e596]
+              - row "Showing Records 1 - 20 of 30076 1 of 1504Next Last" [ref=e597]:
+                - cell "Showing Records 1 - 20 of 30076 1 of 1504Next Last" [ref=e598]:
+                  - table [ref=e599]:
+                    - rowgroup [ref=e600]:
+                      - row "Showing Records 1 - 20 of 30076 1 of 1504Next Last" [ref=e601]:
+                        - cell "Showing Records 1 - 20 of 30076" [ref=e602]
+                        - cell "1 of 1504Next Last" [ref=e603]:
+                          - table [ref=e604]:
+                            - rowgroup [ref=e605]:
+                              - row "1 of 1504Next Last" [ref=e606]:
+                                - cell "1 of 1504Next Last" [ref=e607]:
+                                  - img [ref=e608]
+                                  - img [ref=e609]
+                                  - textbox [ref=e610]: "1"
+                                  - text: of 1504
+                                  - link "Next" [ref=e611] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e612]
+                                  - link "Last" [ref=e613] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e614]
+        - cell [ref=e615]:
+          - img [ref=e616]
+  - table [ref=e617]:
+    - rowgroup [ref=e618]:
+      - row "Powered by vtiger CRM 5.4.0 © 2004-2026 vtiger.com | Read License | Privacy Policy" [ref=e619]:
+        - cell "Powered by vtiger CRM 5.4.0" [ref=e620]:
+          - generic [ref=e621]: Powered by vtiger CRM 5.4.0
+        - cell "© 2004-2026 vtiger.com | Read License | Privacy Policy" [ref=e622]:
+          - generic [ref=e623]:
+            - text: © 2004-2026
+            - link "vtiger.com" [ref=e624] [cursor=pointer]:
+              - /url: http://www.vtiger.com
+            - text: "|"
+            - link "Read License" [ref=e625] [cursor=pointer]:
+              - /url: javascript:mypopup()
+            - text: "|"
+            - link "Privacy Policy" [ref=e626] [cursor=pointer]:
+              - /url: http://www.vtiger.com/products/crm/privacy_policy.html

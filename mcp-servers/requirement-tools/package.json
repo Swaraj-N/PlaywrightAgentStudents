@@ -1,0 +1,14 @@
+{
+  "name": "requirement-tools",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "fs-extra": "^11.2.0",
+    "mammoth": "^1.8.0",
+    "pdf-parse": "^1.1.1"
+  }
+}

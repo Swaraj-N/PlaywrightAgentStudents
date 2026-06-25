@@ -1,0 +1,74 @@
+- table [ref=e3]:
+  - rowgroup [ref=e4]:
+    - row "logo vtiger" [ref=e5]:
+      - cell "logo vtiger" [ref=e6]:
+        - img "logo" [ref=e7]
+        - link "vtiger" [ref=e8] [cursor=pointer]:
+          - /url: http://www.vtiger.com
+    - row "Get more out of vtiger CRM Outlook Plugin Exchange Connector vtiger iPhone Application vtiger iPhone Application vtiger Android Application vtiger Android Application Powered by vtiger CRM - 5.4.0 User Name Password You must specify a valid username and password. Login Read License | Privacy Policy | © 2004- 2026" [ref=e9]:
+      - cell "Get more out of vtiger CRM Outlook Plugin Exchange Connector vtiger iPhone Application vtiger iPhone Application vtiger Android Application vtiger Android Application" [ref=e10]:
+        - table [ref=e12]:
+          - rowgroup [ref=e13]:
+            - row "Get more out of vtiger CRM" [ref=e14]:
+              - cell "Get more out of vtiger CRM" [ref=e15]
+            - row "Outlook Plugin Exchange Connector" [ref=e16]:
+              - cell "Outlook Plugin" [ref=e17]:
+                - link "Outlook Plugin" [ref=e18] [cursor=pointer]:
+                  - /url: http://www.vtiger.com/crm/official-add-ons/#Outlook
+                  - img "Outlook Plugin" [ref=e19]
+              - cell "Exchange Connector" [ref=e20]:
+                - link "Exchange Connector" [ref=e21] [cursor=pointer]:
+                  - /url: http://www.vtiger.com/crm/official-add-ons/#Exchange
+                  - img "Exchange Connector" [ref=e22]
+            - row "vtiger iPhone Application vtiger iPhone Application vtiger Android Application vtiger Android Application" [ref=e23]:
+              - cell "vtiger iPhone Application vtiger iPhone Application" [ref=e24]:
+                - link "vtiger iPhone Application vtiger iPhone Application" [ref=e25] [cursor=pointer]:
+                  - /url: http://itunes.apple.com/us/app/vtiger-crm-mobile/id381259792?mt=8
+                  - img "vtiger iPhone Application" [ref=e26]
+                  - img "vtiger iPhone Application" [ref=e27]
+              - cell "vtiger Android Application vtiger Android Application" [ref=e28]:
+                - link "vtiger Android Application vtiger Android Application" [ref=e29] [cursor=pointer]:
+                  - /url: https://market.android.com/details?id=com.vtiger.apps.gvtigerpro&feature=search_result
+                  - img "vtiger Android Application" [ref=e30]
+                  - img "vtiger Android Application" [ref=e31]
+      - cell "Powered by vtiger CRM - 5.4.0 User Name Password You must specify a valid username and password. Login Read License | Privacy Policy | © 2004- 2026" [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]: Powered by vtiger CRM - 5.4.0
+          - generic [ref=e36]:
+            - generic [ref=e37]: User Name
+            - textbox [active] [ref=e39]
+            - generic [ref=e40]: Password
+            - textbox [ref=e42]
+            - generic [ref=e43]: You must specify a valid username and password.
+            - button "Login" [ref=e45] [cursor=pointer]
+        - generic [ref=e46]:
+          - link "Read License" [ref=e47] [cursor=pointer]:
+            - /url: javascript:mypopup()
+          - text: "|"
+          - link "Privacy Policy" [ref=e48] [cursor=pointer]:
+            - /url: http://www.vtiger.com/products/crm/privacy_policy.html
+          - text: "| © 2004- 2026"
+    - row "Connect with us Facebook Twitter Linkedin Videos Manuals Forums Blogs" [ref=e49]:
+      - cell "Connect with us Facebook Twitter Linkedin Videos Manuals Forums Blogs" [ref=e50]:
+        - text: Connect with us
+        - link "Facebook" [ref=e51] [cursor=pointer]:
+          - /url: http://www.facebook.com/pages/vtiger/226866697333578?sk=app_143539149057867
+          - img "Facebook" [ref=e52]
+        - link "Twitter" [ref=e53] [cursor=pointer]:
+          - /url: http://twitter.com/#!/vtigercrm
+          - img "Twitter" [ref=e54]
+        - link "Linkedin" [ref=e55] [cursor=pointer]:
+          - /url: http://www.linkedin.com/company/1270573?trk=tyah
+          - img "Linkedin" [ref=e56]
+        - link "Videos" [ref=e57] [cursor=pointer]:
+          - /url: http://www.youtube.com/user/vtigercrm
+          - img "Videos" [ref=e58]
+        - link "Manuals" [ref=e59] [cursor=pointer]:
+          - /url: http://wiki.vtiger.com/
+          - img "Manuals" [ref=e60]
+        - link "Forums" [ref=e61] [cursor=pointer]:
+          - /url: http://forums.vtiger.com/
+          - img "Forums" [ref=e62]
+        - link "Blogs" [ref=e63] [cursor=pointer]:
+          - /url: http://blogs.vtiger.com/
+          - img "Blogs" [ref=e64]

@@ -1,0 +1,746 @@
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - row "vtiger-crm-logo.gif Search... Find Admin123@ Administrator1" [ref=e4]:
+        - cell "vtiger-crm-logo.gif" [ref=e5]:
+          - img "vtiger-crm-logo.gif" [ref=e6]
+        - cell "Search... Find" [ref=e7]:
+          - table [ref=e9]:
+            - rowgroup [ref=e10]:
+              - row "Search... Find" [ref=e11]:
+                - cell "Search..." [ref=e12]:
+                  - textbox [ref=e13]: Search...
+                - cell [ref=e14]:
+                  - link:
+                    - /url: javascript:void(0);
+                    - img [ref=e15] [cursor=pointer]
+                - cell "Find" [ref=e16]:
+                  - button "Find" [ref=e17] [cursor=pointer]
+        - cell "Admin123@ Administrator1" [ref=e18]:
+          - table [ref=e19]:
+            - rowgroup [ref=e20]:
+              - row "Admin123@ Administrator1" [ref=e21]:
+                - cell "Admin123@ Administrator1" [ref=e22]
+                - cell [ref=e23]:
+                  - img [ref=e24]
+                - cell [ref=e25]:
+                  - img [ref=e27]
+                - cell [ref=e28]:
+                  - img [ref=e29]
+  - table [ref=e30]:
+    - rowgroup [ref=e31]:
+      - row "Calendar Organizations Contacts Opportunities Products Documents Email Trouble Tickets Dashboard Leads Campaigns More Quick Create..." [ref=e32]:
+        - cell [ref=e33]:
+          - link [ref=e34] [cursor=pointer]:
+            - /url: index.php?module=Home&action=index&parenttab=My Home Page
+            - img [ref=e35]
+        - cell "Calendar Organizations Contacts Opportunities Products Documents Email Trouble Tickets Dashboard Leads Campaigns More Quick Create..." [ref=e36]:
+          - table [ref=e37]:
+            - rowgroup [ref=e38]:
+              - row "Calendar Organizations Contacts Opportunities Products Documents Email Trouble Tickets Dashboard Leads Campaigns More Quick Create..." [ref=e39]:
+                - cell [ref=e40]:
+                  - img [ref=e41]
+                - cell "Calendar" [ref=e42]:
+                  - link "Calendar" [ref=e43] [cursor=pointer]:
+                    - /url: index.php?module=Calendar&action=index
+                - cell [ref=e44]:
+                  - img [ref=e45]
+                - cell "Organizations" [ref=e46]:
+                  - link "Organizations" [ref=e47] [cursor=pointer]:
+                    - /url: index.php?module=Accounts&action=index
+                - cell [ref=e48]:
+                  - img [ref=e49]
+                - cell "Contacts" [ref=e50]:
+                  - link "Contacts" [ref=e51] [cursor=pointer]:
+                    - /url: index.php?module=Contacts&action=index
+                - cell [ref=e52]:
+                  - img [ref=e53]
+                - cell "Opportunities" [ref=e54]:
+                  - link "Opportunities" [ref=e55] [cursor=pointer]:
+                    - /url: index.php?module=Potentials&action=index
+                - cell [ref=e56]:
+                  - img [ref=e57]
+                - cell "Products" [ref=e58]:
+                  - link "Products" [ref=e59] [cursor=pointer]:
+                    - /url: index.php?module=Products&action=index
+                - cell [ref=e60]:
+                  - img [ref=e61]
+                - cell "Documents" [ref=e62]:
+                  - link "Documents" [ref=e63] [cursor=pointer]:
+                    - /url: index.php?module=Documents&action=index
+                - cell [ref=e64]:
+                  - img [ref=e65]
+                - cell "Email" [ref=e66]:
+                  - link "Email" [ref=e67] [cursor=pointer]:
+                    - /url: index.php?module=Emails&action=index
+                - cell [ref=e68]:
+                  - img [ref=e69]
+                - cell "Trouble Tickets" [ref=e70]:
+                  - link "Trouble Tickets" [ref=e71] [cursor=pointer]:
+                    - /url: index.php?module=HelpDesk&action=index
+                - cell [ref=e72]:
+                  - img [ref=e73]
+                - cell "Dashboard" [ref=e74]:
+                  - link "Dashboard" [ref=e75] [cursor=pointer]:
+                    - /url: index.php?module=Dashboard&action=index
+                - cell [ref=e76]:
+                  - img [ref=e77]
+                - cell "Leads" [ref=e78]:
+                  - link "Leads" [ref=e79] [cursor=pointer]:
+                    - /url: index.php?module=Leads&action=index
+                - cell [ref=e80]:
+                  - img [ref=e81]
+                - cell "Campaigns" [ref=e82]:
+                  - link "Campaigns" [ref=e83] [cursor=pointer]:
+                    - /url: index.php?module=Campaigns&action=index
+                - cell [ref=e84]:
+                  - img [ref=e85]
+                - cell "More" [ref=e86]:
+                  - link "More" [ref=e87] [cursor=pointer]:
+                    - /url: javascript:;
+                    - text: More
+                    - img [ref=e88]
+                - cell [ref=e89]:
+                  - img [ref=e90]
+                - cell "Quick Create..." [ref=e91]:
+                  - combobox [ref=e92]:
+                    - option "Quick Create..." [selected]
+                    - option "New Organization"
+                    - option "New Asset"
+                    - option "New To Do"
+                    - option "New Campaign"
+                    - option "New Comment"
+                    - option "New Contact"
+                    - option "New Document"
+                    - option "New Event"
+                    - option "New Ticket"
+                    - option "New Lead"
+                    - option "New Opportunity"
+                    - option "New PriceBook"
+                    - option "New Product"
+                    - option "New Project"
+                    - option "New Project Milestone"
+                    - option "New Project Task"
+                    - option "New Service Contract"
+                    - option "New Service"
+                    - option "New Vendor"
+        - cell [ref=e93]
+  - table [ref=e94]:
+    - rowgroup [ref=e95]:
+      - row [ref=e96]:
+        - cell [ref=e97]
+      - row "Campaigns Create Campaign... Search in Campaigns... Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed Campaigns Settings" [ref=e98]:
+        - cell "Campaigns" [ref=e99]:
+          - link "Campaigns" [ref=e100] [cursor=pointer]:
+            - /url: index.php?action=ListView&module=Campaigns&parenttab=Marketing
+        - cell "Create Campaign... Search in Campaigns... Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed Campaigns Settings" [ref=e101]:
+          - table [ref=e102]:
+            - rowgroup [ref=e103]:
+              - row "Create Campaign... Search in Campaigns... Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed Campaigns Settings" [ref=e104]:
+                - cell [ref=e105]
+                - cell "Create Campaign... Search in Campaigns..." [ref=e106]:
+                  - table [ref=e107]:
+                    - rowgroup [ref=e108]:
+                      - row "Create Campaign... Search in Campaigns..." [ref=e109]:
+                        - cell "Create Campaign... Search in Campaigns..." [ref=e110]:
+                          - table [ref=e111]:
+                            - rowgroup [ref=e112]:
+                              - row "Create Campaign... Search in Campaigns..." [ref=e113]:
+                                - cell "Create Campaign..." [ref=e114]:
+                                  - link "Create Campaign..." [ref=e115] [cursor=pointer]:
+                                    - /url: index.php?module=Campaigns&action=EditView&return_action=DetailView&parenttab=Marketing
+                                    - img "Create Campaign..." [ref=e116]
+                                - cell "Search in Campaigns..." [ref=e117]:
+                                  - link "Search in Campaigns..." [ref=e118] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img "Search in Campaigns..." [ref=e119]
+                - cell [ref=e120]
+                - cell "Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed" [ref=e121]:
+                  - table [ref=e122]:
+                    - rowgroup [ref=e123]:
+                      - row "Open Calendar... Show World Clock... Open Calculator... Chat... Last Viewed" [ref=e124]:
+                        - cell "Open Calendar..." [ref=e125]:
+                          - link "Open Calendar..." [ref=e126] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Open Calendar..." [ref=e127]
+                        - cell "Show World Clock..." [ref=e128]:
+                          - link "Show World Clock..." [ref=e129] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Show World Clock..." [ref=e130]
+                        - cell "Open Calculator..." [ref=e131]:
+                          - link "Open Calculator..." [ref=e132] [cursor=pointer]:
+                            - /url: "#"
+                            - img "Open Calculator..." [ref=e133]
+                        - cell "Chat..." [ref=e134]:
+                          - link "Chat..." [ref=e135] [cursor=pointer]:
+                            - /url: javascript:;
+                            - img "Chat..." [ref=e136]
+                        - cell "Last Viewed" [ref=e137]:
+                          - img "Last Viewed" [ref=e138]
+                - cell [ref=e139]
+                - cell [ref=e140]:
+                  - table [ref=e141]:
+                    - rowgroup [ref=e142]:
+                      - row [ref=e143]:
+                        - cell [ref=e144]:
+                          - img [ref=e145]
+                        - cell [ref=e146]:
+                          - img [ref=e147]
+                        - cell [ref=e148]:
+                          - img [ref=e149]
+                - cell [ref=e150]
+                - cell "Campaigns Settings" [ref=e151]:
+                  - table [ref=e152]:
+                    - rowgroup [ref=e153]:
+                      - row "Campaigns Settings" [ref=e154]:
+                        - cell "Campaigns Settings" [ref=e155]:
+                          - link "Campaigns Settings" [ref=e156] [cursor=pointer]:
+                            - /url: index.php?module=Settings&action=ModuleManager&module_settings=true&formodule=Campaigns&parenttab=Settings
+                            - img "Campaigns Settings" [ref=e157]
+      - row [ref=e158]:
+        - cell [ref=e159]
+  - table [ref=e160]:
+    - rowgroup [ref=e161]:
+      - row [ref=e162]:
+        - cell [ref=e163]:
+          - img [ref=e164]
+        - cell [ref=e165]:
+          - table [ref=e168]:
+            - rowgroup [ref=e169]:
+              - row "Search Go to Advanced Search Search for In Campaign No Search Now [x]" [ref=e170]:
+                - cell "Search Go to Advanced Search" [ref=e171]:
+                  - text: Search
+                  - link "Go to Advanced Search" [ref=e173] [cursor=pointer]:
+                    - /url: "#"
+                - cell "Search for" [ref=e174]
+                - cell [ref=e175]:
+                  - textbox [ref=e176]
+                - cell "In" [ref=e177]
+                - cell "Campaign No" [ref=e178]:
+                  - combobox [ref=e180]:
+                    - option "Campaign No" [selected]
+                    - option "Campaign Name"
+                    - option "Campaign Type"
+                    - option "Campaign Status"
+                    - option "Expected Revenue"
+                    - option "Expected Close Date"
+                    - option "Assigned To"
+                - cell "Search Now" [ref=e181]:
+                  - button "Search Now" [ref=e182]
+                - cell "[x]" [ref=e183]
+              - row "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" [ref=e184]:
+                - cell "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" [ref=e185]:
+                  - table [ref=e186]:
+                    - rowgroup [ref=e187]:
+                      - row "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" [ref=e188]:
+                        - cell "A" [ref=e189] [cursor=pointer]
+                        - cell "B" [ref=e190] [cursor=pointer]
+                        - cell "C" [ref=e191] [cursor=pointer]
+                        - cell "D" [ref=e192] [cursor=pointer]
+                        - cell "E" [ref=e193] [cursor=pointer]
+                        - cell "F" [ref=e194] [cursor=pointer]
+                        - cell "G" [ref=e195] [cursor=pointer]
+                        - cell "H" [ref=e196] [cursor=pointer]
+                        - cell "I" [ref=e197] [cursor=pointer]
+                        - cell "J" [ref=e198] [cursor=pointer]
+                        - cell "K" [ref=e199] [cursor=pointer]
+                        - cell "L" [ref=e200] [cursor=pointer]
+                        - cell "M" [ref=e201] [cursor=pointer]
+                        - cell "N" [ref=e202] [cursor=pointer]
+                        - cell "O" [ref=e203] [cursor=pointer]
+                        - cell "P" [ref=e204] [cursor=pointer]
+                        - cell "Q" [ref=e205] [cursor=pointer]
+                        - cell "R" [ref=e206] [cursor=pointer]
+                        - cell "S" [ref=e207] [cursor=pointer]
+                        - cell "T" [ref=e208] [cursor=pointer]
+                        - cell "U" [ref=e209] [cursor=pointer]
+                        - cell "V" [ref=e210] [cursor=pointer]
+                        - cell "W" [ref=e211] [cursor=pointer]
+                        - cell "X" [ref=e212] [cursor=pointer]
+                        - cell "Y" [ref=e213] [cursor=pointer]
+                        - cell "Z" [ref=e214] [cursor=pointer]
+          - table [ref=e217]:
+            - rowgroup [ref=e218]:
+              - row [ref=e219]:
+                - cell [ref=e220]:
+                  - table [ref=e221]:
+                    - rowgroup [ref=e222]:
+                      - 'row "Showing Records 1 - 20 of 2055 Filters : All Create Filter | Edit | Delete 1 of 103Next Last" [ref=e223]':
+                        - cell "Showing Records 1 - 20 of 2055" [ref=e224]
+                        - 'cell "Filters : All Create Filter | Edit | Delete" [ref=e225]':
+                          - table [ref=e226]:
+                            - rowgroup [ref=e227]:
+                              - 'row "Filters : All Create Filter | Edit | Delete" [ref=e228]':
+                                - 'cell "Filters : All Create Filter | Edit | Delete" [ref=e229]':
+                                  - table [ref=e230]:
+                                    - rowgroup [ref=e231]:
+                                      - 'row "Filters : All Create Filter | Edit | Delete" [ref=e232]':
+                                        - 'cell "Filters : All" [ref=e233]':
+                                          - generic [ref=e234]: "Filters :"
+                                          - combobox [ref=e235]:
+                                            - option "All" [selected]
+                                            - option "CAM1"
+                                            - option "campign name"
+                                            - option "view name"
+                                        - cell "Create Filter | Edit | Delete" [ref=e236]:
+                                          - link "Create Filter" [ref=e237] [cursor=pointer]:
+                                            - /url: index.php?module=Campaigns&action=CustomView&parenttab=Marketing
+                                          - text: "| Edit | Delete"
+                        - cell "1 of 103Next Last" [ref=e238]:
+                          - table [ref=e239]:
+                            - rowgroup [ref=e240]:
+                              - row "1 of 103Next Last" [ref=e241]:
+                                - cell "1 of 103Next Last" [ref=e242]:
+                                  - img [ref=e243]
+                                  - img [ref=e244]
+                                  - textbox [ref=e245]: "1"
+                                  - text: of 103
+                                  - link "Next" [ref=e246] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e247]
+                                  - link "Last" [ref=e248] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e249]
+                  - table [ref=e250]:
+                    - rowgroup [ref=e251]:
+                      - row "Delete Mass Edit" [ref=e252]:
+                        - cell "Delete Mass Edit" [ref=e253]:
+                          - button "Delete" [ref=e254]
+                          - button "Mass Edit" [ref=e255]
+                  - table [ref=e257]:
+                    - rowgroup [ref=e258]:
+                      - row "Campaign No Campaign Name Campaign Type Campaign Status Expected Revenue Expected Close Date Assigned To Action" [ref=e259]:
+                        - cell [ref=e260]:
+                          - checkbox [ref=e261]
+                        - cell "Campaign No" [ref=e262]:
+                          - link "Campaign No" [ref=e263] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Campaign Name" [ref=e264]:
+                          - link "Campaign Name" [ref=e265] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Campaign Type" [ref=e266]:
+                          - link "Campaign Type" [ref=e267] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Campaign Status" [ref=e268]:
+                          - link "Campaign Status" [ref=e269] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Expected Revenue" [ref=e270]:
+                          - link "Expected Revenue" [ref=e271] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Expected Close Date" [ref=e272]:
+                          - link "Expected Close Date" [ref=e273] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Assigned To" [ref=e274]:
+                          - link "Assigned To" [ref=e275] [cursor=pointer]:
+                            - /url: javascript:;
+                        - cell "Action" [ref=e276]
+                      - row
+                      - row "CAM151 xyz --None-- Planning 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e277]:
+                        - cell [ref=e278]:
+                          - checkbox [ref=e279]
+                        - cell "CAM151" [ref=e280]
+                        - cell "xyz" [ref=e281]:
+                          - link "xyz" [ref=e282] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=536
+                        - cell "--None--" [ref=e283]
+                        - cell "Planning" [ref=e284]
+                        - cell "0.000" [ref=e285]
+                        - cell "2024-06-01" [ref=e286]
+                        - cell "Admin123@ Administrator1" [ref=e287]
+                        - cell "edit | del" [ref=e288]:
+                          - link "edit" [ref=e289] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=536&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e290] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D536%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM152 fghh --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e291]:
+                        - cell [ref=e292]:
+                          - checkbox [ref=e293]
+                        - cell "CAM152" [ref=e294]
+                        - cell "fghh" [ref=e295]:
+                          - link "fghh" [ref=e296] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=537
+                        - cell "--None--" [ref=e297]
+                        - cell "--None--" [ref=e298]
+                        - cell "0.000" [ref=e299]
+                        - cell "2024-06-01" [ref=e300]
+                        - cell "Admin123@ Administrator1" [ref=e301]
+                        - cell "edit | del" [ref=e302]:
+                          - link "edit" [ref=e303] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=537&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e304] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D537%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM153 Greenliving1900 --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e305]:
+                        - cell [ref=e306]:
+                          - checkbox [ref=e307]
+                        - cell "CAM153" [ref=e308]
+                        - cell "Greenliving1900" [ref=e309]:
+                          - link "Greenliving1900" [ref=e310] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=538
+                        - cell "--None--" [ref=e311]
+                        - cell "--None--" [ref=e312]
+                        - cell "0.000" [ref=e313]
+                        - cell "2024-06-01" [ref=e314]
+                        - cell "Admin123@ Administrator1" [ref=e315]
+                        - cell "edit | del" [ref=e316]:
+                          - link "edit" [ref=e317] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=538&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e318] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D538%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM155 Greenliving1244 --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e319]:
+                        - cell [ref=e320]:
+                          - checkbox [ref=e321]
+                        - cell "CAM155" [ref=e322]
+                        - cell "Greenliving1244" [ref=e323]:
+                          - link "Greenliving1244" [ref=e324] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=542
+                        - cell "--None--" [ref=e325]
+                        - cell "--None--" [ref=e326]
+                        - cell "0.000" [ref=e327]
+                        - cell "2024-06-01" [ref=e328]
+                        - cell "Admin123@ Administrator1" [ref=e329]
+                        - cell "edit | del" [ref=e330]:
+                          - link "edit" [ref=e331] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=542&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e332] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D542%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM156 Greenliving3040 --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e333]:
+                        - cell [ref=e334]:
+                          - checkbox [ref=e335]
+                        - cell "CAM156" [ref=e336]
+                        - cell "Greenliving3040" [ref=e337]:
+                          - link "Greenliving3040" [ref=e338] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=549
+                        - cell "--None--" [ref=e339]
+                        - cell "--None--" [ref=e340]
+                        - cell "0.000" [ref=e341]
+                        - cell "2024-06-01" [ref=e342]
+                        - cell "Admin123@ Administrator1" [ref=e343]
+                        - cell "edit | del" [ref=e344]:
+                          - link "edit" [ref=e345] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=549&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e346] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D549%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM157 Greenliving2944 --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e347]:
+                        - cell [ref=e348]:
+                          - checkbox [ref=e349]
+                        - cell "CAM157" [ref=e350]
+                        - cell "Greenliving2944" [ref=e351]:
+                          - link "Greenliving2944" [ref=e352] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=554
+                        - cell "--None--" [ref=e353]
+                        - cell "--None--" [ref=e354]
+                        - cell "0.000" [ref=e355]
+                        - cell "2024-06-01" [ref=e356]
+                        - cell "Admin123@ Administrator1" [ref=e357]
+                        - cell "edit | del" [ref=e358]:
+                          - link "edit" [ref=e359] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=554&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e360] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D554%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM158 Greenliving --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e361]:
+                        - cell [ref=e362]:
+                          - checkbox [ref=e363]
+                        - cell "CAM158" [ref=e364]
+                        - cell "Greenliving" [ref=e365]:
+                          - link "Greenliving" [ref=e366] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=565
+                        - cell "--None--" [ref=e367]
+                        - cell "--None--" [ref=e368]
+                        - cell "0.000" [ref=e369]
+                        - cell "2024-06-01" [ref=e370]
+                        - cell "Admin123@ Administrator1" [ref=e371]
+                        - cell "edit | del" [ref=e372]:
+                          - link "edit" [ref=e373] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=565&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e374] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D565%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM159 Greenliving --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e375]:
+                        - cell [ref=e376]:
+                          - checkbox [ref=e377]
+                        - cell "CAM159" [ref=e378]
+                        - cell "Greenliving" [ref=e379]:
+                          - link "Greenliving" [ref=e380] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=566
+                        - cell "--None--" [ref=e381]
+                        - cell "--None--" [ref=e382]
+                        - cell "0.000" [ref=e383]
+                        - cell "2024-06-01" [ref=e384]
+                        - cell "Admin123@ Administrator1" [ref=e385]
+                        - cell "edit | del" [ref=e386]:
+                          - link "edit" [ref=e387] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=566&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e388] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D566%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM160 Greenliving --None-- --None-- 0.000 2024-06-01 Admin123@ Administrator1 edit | del" [ref=e389]:
+                        - cell [ref=e390]:
+                          - checkbox [ref=e391]
+                        - cell "CAM160" [ref=e392]
+                        - cell "Greenliving" [ref=e393]:
+                          - link "Greenliving" [ref=e394] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=567
+                        - cell "--None--" [ref=e395]
+                        - cell "--None--" [ref=e396]
+                        - cell "0.000" [ref=e397]
+                        - cell "2024-06-01" [ref=e398]
+                        - cell "Admin123@ Administrator1" [ref=e399]
+                        - cell "edit | del" [ref=e400]:
+                          - link "edit" [ref=e401] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=567&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e402] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D567%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM161 Greenliving --None-- --None-- 0.000 2024-06-02 Admin123@ Administrator1 edit | del" [ref=e403]:
+                        - cell [ref=e404]:
+                          - checkbox [ref=e405]
+                        - cell "CAM161" [ref=e406]
+                        - cell "Greenliving" [ref=e407]:
+                          - link "Greenliving" [ref=e408] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=568
+                        - cell "--None--" [ref=e409]
+                        - cell "--None--" [ref=e410]
+                        - cell "0.000" [ref=e411]
+                        - cell "2024-06-02" [ref=e412]
+                        - cell "Admin123@ Administrator1" [ref=e413]
+                        - cell "edit | del" [ref=e414]:
+                          - link "edit" [ref=e415] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=568&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e416] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D568%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM162 Greenliving4358 --None-- --None-- 0.000 2024-06-02 Admin123@ Administrator1 edit | del" [ref=e417]:
+                        - cell [ref=e418]:
+                          - checkbox [ref=e419]
+                        - cell "CAM162" [ref=e420]
+                        - cell "Greenliving4358" [ref=e421]:
+                          - link "Greenliving4358" [ref=e422] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=569
+                        - cell "--None--" [ref=e423]
+                        - cell "--None--" [ref=e424]
+                        - cell "0.000" [ref=e425]
+                        - cell "2024-06-02" [ref=e426]
+                        - cell "Admin123@ Administrator1" [ref=e427]
+                        - cell "edit | del" [ref=e428]:
+                          - link "edit" [ref=e429] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=569&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e430] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D569%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM163 Greenliving --None-- --None-- 0.000 2024-06-02 Admin123@ Administrator1 edit | del" [ref=e431]:
+                        - cell [ref=e432]:
+                          - checkbox [ref=e433]
+                        - cell "CAM163" [ref=e434]
+                        - cell "Greenliving" [ref=e435]:
+                          - link "Greenliving" [ref=e436] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=570
+                        - cell "--None--" [ref=e437]
+                        - cell "--None--" [ref=e438]
+                        - cell "0.000" [ref=e439]
+                        - cell "2024-06-02" [ref=e440]
+                        - cell "Admin123@ Administrator1" [ref=e441]
+                        - cell "edit | del" [ref=e442]:
+                          - link "edit" [ref=e443] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=570&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e444] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D570%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM164 Greenliving --None-- --None-- 0.000 2024-06-02 Admin123@ Administrator1 edit | del" [ref=e445]:
+                        - cell [ref=e446]:
+                          - checkbox [ref=e447]
+                        - cell "CAM164" [ref=e448]
+                        - cell "Greenliving" [ref=e449]:
+                          - link "Greenliving" [ref=e450] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=571
+                        - cell "--None--" [ref=e451]
+                        - cell "--None--" [ref=e452]
+                        - cell "0.000" [ref=e453]
+                        - cell "2024-06-02" [ref=e454]
+                        - cell "Admin123@ Administrator1" [ref=e455]
+                        - cell "edit | del" [ref=e456]:
+                          - link "edit" [ref=e457] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=571&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e458] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D571%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM165 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e459]:
+                        - cell [ref=e460]:
+                          - checkbox [ref=e461]
+                        - cell "CAM165" [ref=e462]
+                        - cell "Greenliving" [ref=e463]:
+                          - link "Greenliving" [ref=e464] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=572
+                        - cell "--None--" [ref=e465]
+                        - cell "--None--" [ref=e466]
+                        - cell "0.000" [ref=e467]
+                        - cell "2024-06-03" [ref=e468]
+                        - cell "Admin123@ Administrator1" [ref=e469]
+                        - cell "edit | del" [ref=e470]:
+                          - link "edit" [ref=e471] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=572&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e472] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D572%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM166 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e473]:
+                        - cell [ref=e474]:
+                          - checkbox [ref=e475]
+                        - cell "CAM166" [ref=e476]
+                        - cell "Greenliving" [ref=e477]:
+                          - link "Greenliving" [ref=e478] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=573
+                        - cell "--None--" [ref=e479]
+                        - cell "--None--" [ref=e480]
+                        - cell "0.000" [ref=e481]
+                        - cell "2024-06-03" [ref=e482]
+                        - cell "Admin123@ Administrator1" [ref=e483]
+                        - cell "edit | del" [ref=e484]:
+                          - link "edit" [ref=e485] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=573&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e486] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D573%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM167 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e487]:
+                        - cell [ref=e488]:
+                          - checkbox [ref=e489]
+                        - cell "CAM167" [ref=e490]
+                        - cell "Greenliving" [ref=e491]:
+                          - link "Greenliving" [ref=e492] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=662
+                        - cell "--None--" [ref=e493]
+                        - cell "--None--" [ref=e494]
+                        - cell "0.000" [ref=e495]
+                        - cell "2024-06-03" [ref=e496]
+                        - cell "Admin123@ Administrator1" [ref=e497]
+                        - cell "edit | del" [ref=e498]:
+                          - link "edit" [ref=e499] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=662&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e500] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D662%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM168 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e501]:
+                        - cell [ref=e502]:
+                          - checkbox [ref=e503]
+                        - cell "CAM168" [ref=e504]
+                        - cell "Greenliving" [ref=e505]:
+                          - link "Greenliving" [ref=e506] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=663
+                        - cell "--None--" [ref=e507]
+                        - cell "--None--" [ref=e508]
+                        - cell "0.000" [ref=e509]
+                        - cell "2024-06-03" [ref=e510]
+                        - cell "Admin123@ Administrator1" [ref=e511]
+                        - cell "edit | del" [ref=e512]:
+                          - link "edit" [ref=e513] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=663&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e514] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D663%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM170 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e515]:
+                        - cell [ref=e516]:
+                          - checkbox [ref=e517]
+                        - cell "CAM170" [ref=e518]
+                        - cell "Greenliving" [ref=e519]:
+                          - link "Greenliving" [ref=e520] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=670
+                        - cell "--None--" [ref=e521]
+                        - cell "--None--" [ref=e522]
+                        - cell "0.000" [ref=e523]
+                        - cell "2024-06-03" [ref=e524]
+                        - cell "Admin123@ Administrator1" [ref=e525]
+                        - cell "edit | del" [ref=e526]:
+                          - link "edit" [ref=e527] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=670&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e528] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D670%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM175 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e529]:
+                        - cell [ref=e530]:
+                          - checkbox [ref=e531]
+                        - cell "CAM175" [ref=e532]
+                        - cell "Greenliving" [ref=e533]:
+                          - link "Greenliving" [ref=e534] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=705
+                        - cell "--None--" [ref=e535]
+                        - cell "--None--" [ref=e536]
+                        - cell "0.000" [ref=e537]
+                        - cell "2024-06-03" [ref=e538]
+                        - cell "Admin123@ Administrator1" [ref=e539]
+                        - cell "edit | del" [ref=e540]:
+                          - link "edit" [ref=e541] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=705&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e542] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D705%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                      - row "CAM176 Greenliving --None-- --None-- 0.000 2024-06-03 Admin123@ Administrator1 edit | del" [ref=e543]:
+                        - cell [ref=e544]:
+                          - checkbox [ref=e545]
+                        - cell "CAM176" [ref=e546]
+                        - cell "Greenliving" [ref=e547]:
+                          - link "Greenliving" [ref=e548] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&parenttab=Marketing&action=DetailView&record=706
+                        - cell "--None--" [ref=e549]
+                        - cell "--None--" [ref=e550]
+                        - cell "0.000" [ref=e551]
+                        - cell "2024-06-03" [ref=e552]
+                        - cell "Admin123@ Administrator1" [ref=e553]
+                        - cell "edit | del" [ref=e554]:
+                          - link "edit" [ref=e555] [cursor=pointer]:
+                            - /url: index.php?module=Campaigns&action=EditView&record=706&return_module=Campaigns&return_action=index&parenttab=Marketing&return_viewname=29
+                          - text: "|"
+                          - link "del" [ref=e556] [cursor=pointer]:
+                            - /url: javascript:confirmdelete("index.php%3Fmodule%3DCampaigns%26action%3DDelete%26record%3D706%26return_module%3DCampaigns%26return_action%3Dindex%26parenttab%3DMarketing%26return_viewname%3D29")
+                  - table [ref=e557]:
+                    - rowgroup [ref=e558]:
+                      - row "Delete Mass Edit" [ref=e559]:
+                        - cell "Delete Mass Edit" [ref=e560]:
+                          - button "Delete" [ref=e561]
+                          - button "Mass Edit" [ref=e562]
+                        - cell [ref=e563]:
+                          - table:
+                            - rowgroup:
+                              - row
+              - row "Showing Records 1 - 20 of 2055 1 of 103Next Last" [ref=e564]:
+                - cell "Showing Records 1 - 20 of 2055 1 of 103Next Last" [ref=e565]:
+                  - table [ref=e566]:
+                    - rowgroup [ref=e567]:
+                      - row "Showing Records 1 - 20 of 2055 1 of 103Next Last" [ref=e568]:
+                        - cell "Showing Records 1 - 20 of 2055" [ref=e569]
+                        - cell "1 of 103Next Last" [ref=e570]:
+                          - table [ref=e571]:
+                            - rowgroup [ref=e572]:
+                              - row "1 of 103Next Last" [ref=e573]:
+                                - cell "1 of 103Next Last" [ref=e574]:
+                                  - img [ref=e575]
+                                  - img [ref=e576]
+                                  - textbox [ref=e577]: "1"
+                                  - text: of 103
+                                  - link "Next" [ref=e578] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e579]
+                                  - link "Last" [ref=e580] [cursor=pointer]:
+                                    - /url: javascript:;
+                                    - img [ref=e581]
+        - cell [ref=e582]:
+          - img [ref=e583]
+  - table [ref=e584]:
+    - rowgroup [ref=e585]:
+      - row "Powered by vtiger CRM 5.4.0 © 2004-2026 vtiger.com | Read License | Privacy Policy" [ref=e586]:
+        - cell "Powered by vtiger CRM 5.4.0" [ref=e587]:
+          - generic [ref=e588]: Powered by vtiger CRM 5.4.0
+        - cell "© 2004-2026 vtiger.com | Read License | Privacy Policy" [ref=e589]:
+          - generic [ref=e590]:
+            - text: © 2004-2026
+            - link "vtiger.com" [ref=e591] [cursor=pointer]:
+              - /url: http://www.vtiger.com
+            - text: "|"
+            - link "Read License" [ref=e592] [cursor=pointer]:
+              - /url: javascript:mypopup()
+            - text: "|"
+            - link "Privacy Policy" [ref=e593] [cursor=pointer]:
+              - /url: http://www.vtiger.com/products/crm/privacy_policy.html

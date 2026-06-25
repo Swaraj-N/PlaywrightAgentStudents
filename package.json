@@ -1,0 +1,36 @@
+{
+  "type": "module",
+  "name": "playwriteframework_crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:enhanced": "playwright test tests/contacts/CreateContactEnhanced.spec.js",
+    "test:createContact": "playwright test tests/contacts/CreateContact.spec.js",
+    "test:createContactwithNum": "playwright test tests/contacts/CreateContactwithNum.spec.js",
+    "test:contacts": "playwright test tests/contacts/",
+    "test:ui": "playwright test --ui",
+    "generate:testdata": "node utility/createSampleTestData.js",
+    "analyze:results": "node utility/analyzeTestResults.js",
+    "test:and:analyze": "playwright test && npm run analyze:results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx4js": "^3.3.0",
+    "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
+    "mammoth": "^1.12.0",
+    "playwright": "^1.59.1",
+    "word-extractor": "^1.0.4",
+    "xlsx": "^0.18.5",
+    "xlsx-js-style": "^1.2.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}

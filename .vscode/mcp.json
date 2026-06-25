@@ -1,0 +1,20 @@
+{
+	"servers": {
+		"playwright-test": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"playwright",
+				"run-test-mcp-server"
+			]
+		},
+		"requirment-mcp-parser": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"mcp-servers/requirement-tools/server.js"
+			]
+		},
+	},
+	"inputs": []
+}
